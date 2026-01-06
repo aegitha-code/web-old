@@ -5,3 +5,4 @@ Aegitha Online Tuitions - Static Website
 2. Replace SUPABASE_URL and SUPABASE_ANON_KEY in assets/js/supabase.js
 3. Configure tables & RLS in Supabase
 # web
+# web
