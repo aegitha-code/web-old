@@ -6,3 +6,4 @@ Aegitha Online Tuitions - Static Website
 3. Configure tables & RLS in Supabase
 # web
 # web
+# web
